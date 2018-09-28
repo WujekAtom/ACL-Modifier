@@ -1,81 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note class='filter' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.10'
- replicaid='C125830E006C2EDE'>
-<noteinfo noteid='15a' unid='1B9B475F75FA957AC1258315003848D2' sequence='37'>
+ replicaid='C1258316007F5841'>
+<noteinfo noteid='272' unid='1B9B475F75FA957AC1258315003848D2' sequence='5'>
 <created><datetime dst='true'>20180927T121446,58+02</datetime></created>
-<modified><datetime dst='true'>20180928T170300,79+02</datetime></modified>
-<revised><datetime dst='true'>20180928T170300,78+02</datetime></revised>
-<lastaccessed><datetime dst='true'>20180928T170300,78+02</datetime></lastaccessed>
-<addedtofile><datetime dst='true'>20180927T155558,06+02</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></updatedby>
-<wassignedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></wassignedby>
+<modified><datetime dst='true'>20180929T011835,81+02</datetime></modified>
+<revised><datetime dst='true'>20180929T011835,80+02</datetime></revised>
+<lastaccessed><datetime dst='true'>20180929T011835,80+02</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20180929T011058,37+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Administrator/O=SRV</name></updatedby>
+<wassignedby><name>CN=Administrator/O=SRV</name></wassignedby>
 <item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
- compression='none' flags='sign' encoding='none' name='%%source%%.jar' size='1242'>
+ compression='none' flags='sign' encoding='none' name='%%source%%.jar' size='1263'>
 <created><datetime dst='true'>20180927T121448,04+02</datetime></created>
-<modified><datetime dst='true'>20180928T170300,73+02</datetime></modified><filedata
+<modified><datetime dst='true'>20180929T011835,41+02</datetime></modified><filedata
 >
-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
+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
+AAAAnQQAAAAA
 </filedata></file></object></item>
 <item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
- compression='none' flags='sign' encoding='none' name='%%object%%.jar' size='1671'>
+ compression='none' flags='sign' encoding='none' name='%%object%%.jar' size='1705'>
 <created><datetime dst='true'>20180927T121448,04+02</datetime></created>
-<modified><datetime dst='true'>20180928T170300,74+02</datetime></modified><filedata
+<modified><datetime dst='true'>20180929T011835,42+02</datetime></modified><filedata
 >
-UEsDBBQACAgIAGCIPE0AAAAAAAAAAAAAAAAPAAAASmF2YUFnZW50LmNsYXNzjVbpdxNVFP+9NslM
-kkFKoMBYoUEE01IoKCJMQS1pwWK6QLoYcJsm03RgMhMyk0Lrvu8bruC+1hUFNSVw9IvnyDl+8PjB
-P8S/QLxvkhRIU7TntO/dd++7c+/v3t99/f2fs78A2ICzAuoY/HvUCbUzrZmOAA/DUsNy8nZ7ysro
-ptXunu9UbY3Bt103decWhvpIyzCDJ2qltADq4ZfghY/89FmOZvequhkAgyRhAa5iCKQ1J67Ztm6Z
-DMsjLbHL3Jc1HUE0ICRgEcOSWnoJi7GEYSH5cgOKWqajHXUYVlQ7vFTdIWApQ8NBSq/dUM10e9zJ
-6WZaxHIGsa+/MxrtjsdFXM0g9KqmmtZyIq4hVZdm62mTSysp6+6U7li0D9O+M++M8/21tN+nqSlu
-cx1l3qVlLZubCVhLKUStTMYyhxzdaN891JPNWZmsE8Aa+EW0MGyNjluWrYXVZJKyCxvahGaEHSts
-aw5fVMMId0ZjdpgSyemaXTlLjXIX6yS0YT1DUDezeWdEN1PWEYZtkQOx6jQ75p60zD3yox2bBGy8
-HKdJ29EyEm7AjVRtK09AN5au6lb7AN1z6LamZgjgm6hhqp3uzI+NcWRuJmSOTI7mVNNSwgFsxjbe
-KQo5i9SIbZhbbJewA9RiPjWb1cwUQ1st0zlHpS92cA+3SejETqqiY5V0VI9IjcQD6MIuAd0Mi2tk
-JmE3D1TI8iODGroRPRL24A4KTTucVw27Kov+0YNa0ulo2c97v1dCH/rJlEpKpSSuRHp4fnsRF7CP
-oemylnVp0300qWUdt9UHOZkWZkvBqMlDgzk1SUQb5pdHKuG6H529RDSb3dtB7MddAg4wyPNSQ8Ld
-uIchRISK5nM5UnSpjjrq8lyu5lRF1cE93ydBxSjDMro6ZFJv8ybWUl1WMp8hN4TL6jn3y7qoZRgE
-UonvKYwJoK81/4ephDTGqTvpc7v0nO1ULGrFWVZRWx5kWHkJCzlXB3LWmG5oFaMAdM7HDANEWFSr
-1OiA6owHcRi2gByVt6ZvCQ7yJeB6iCPDqpHXKn229n/1qjvrjkg4ikmiMfm5iPyOGg5quZyvOvfj
-QQEPzAm9bCDhIU6MoIukofWpGY1feUTCo3iMAEiXm3XJnJkajZHzJ/CUgCepEtU6CU/jGYYFlQp1
-09yarFEeMnVV5Os5vCDg+epAKwYSXuSBCuSQByniZYZFg1ZGtafCIzQRp5JT+ZzKOfmqhGN4jcie
-pLamh4e6r+lSDKPjai5OfNXMpOZysxFvSHgTb5H3CV66/rGqslV4PBd2EccZWJgH/46Ed/EefZYi
-jPHx7b6JPXz8fMAH2Ic8jJ4rjKkufCzhEz5hvC7PudPPJHzOh4Zol52K+IIGaDjePUhPgBLmFfhK
-wtf4hh5XDg3RuAz1xsg8SF+pAiclfMcnjZDTkpNJQ+P+T0k4zc88tjrhHpzkRP1JQgEzpeeXf/Ui
-Bas/PMvA+ZjJ6XWS6ENeaKo5NLSMfEqL6baDVTQ468F/PLSj/yjor0DSIlqJpPC2zkA85RrQuJtV
-/03mPlr/ai0gGFtXxEKGkQbhZzQm6kPL4glPSI4nvKGmeMIXWhFPCKHmeEIMrYonGnyh1fHec1iT
-mMH1fevbQpECWhXPaWw4h82J0JYZbJU9BXQUcGsB0fotXtkTWlbA7cfhKwmrS4LHFVaVBK8rNJcE
-nyusKAmCKzSVBNEVZFcQGsiutdFbQGwaDbF1BQxMQ+Tr0CnUUWa/4jd6Ofj6Bz0CPHt6XEhzZxmq
-vRwH1kx7idbFHIfeNheHvvVFJAgOWu5lUDyyp4gkbbxM8TFFYIrIFD9TAuegz+BQyFCC0/hT9obM
-IrJ1UIJtTA4WMVEPRSBYZKGIKUatEOW7h8mPKItFPE4b/zQs2V/Es1Talwp45QT2lHEsn57B64Rn
-6G3Ck5+c4G7ed5H9SPY3FfFpHSrAT5NhU0UblUVu/yVFE+Cbb2muBBS/7D9/4Rj/+Pck0/IDLR7Z
-W8SPZOjjmzN04lO8svf8hU2VpilCKTfNAvrl0LKSCv8CUEsHCDwO1hX3BQAAEgsAAFBLAQIUABQA
-CAgIAGCIPE08DtYV9wUAABILAAAPAAAAAAAAAAAAAAAAAAAAAABKYXZhQWdlbnQuY2xhc3NQSwUG
-AAAAAAEAAQA9AAAANAYAAAAA
+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
 </filedata></file></object></item>
 <item name='$JavaCompilerSource'><text>1.3</text></item>
 <item name='$JavaCompilerTarget'><text>1.2</text></item>
-<item name='$AssistVersion'><datetime dst='true'>20180928T170300,77+02</datetime></item>
+<item name='$AssistVersion'><datetime dst='true'>20180929T011835,62+02</datetime></item>
 <item name='$TITLE' sign='true'><text>(setACLentries)</text></item>
 <item name='$AssistType' sign='true'><number>65427</number></item>
 <item name='$AssistLastRun' sign='true'>
@@ -109,13 +110,13 @@ gQI=
 <item name='$DesignerVersion'><text>8.5.3</text></item>
 <item name='$AssistRunInfo' summary='true'>
 <rawitemdata type='3'>
-BgABAAAACADSAwAAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAA6gAAAAAAAAAAAAAAAAAAABAAAAAA
-AAAAFiJdABaDJcEAAAAAX6xSABaDJcHad0wAFYMlwQAAAAAAAAAAAAAAAAAAAAAAAAAAU3RhcnRl
-ZCBydW5uaW5nIGFnZW50ICdzZXRBQ0xlbnRyaWVzJyBvbiAyMDE4LTA5LTI4IDE4OjU3OjEzDQpS
-dW5uaW5nIG9uIHNlbGVjdGVkIGRvY3VtZW50czogMSB0b3RhbA0KRm91bmQgMSBkb2N1bWVudChz
-KSB0aGF0IG1hdGNoIHNlYXJjaCBjcml0ZXJpYQ0KUmFuIEphdmEgQWdlbnQgQ2xhc3MNCkRvbmUg
-cnVubmluZyBhZ2VudCAnc2V0QUNMZW50cmllcycgb24gMjAxOC0wOS0yOCAxODo1NzoxNQ0KAA0K
-uEp0xxm83P5DtlIAFoMlwaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+BgABAAAACABKAwAAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAjwuAABaDJcFBWH8AFoMlwQAAAAAAAAAAAAAAAAAAAAAAAAAAqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
