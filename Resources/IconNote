@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
  maintenanceversion='1.10' replicaid='C125830E006C2EDE'>
-<noteinfo noteid='126' unid='8878EC9E6E564742C125830E006C2EE8' sequence='8'>
+<noteinfo noteid='126' unid='8878EC9E6E564742C125830E006C2EE8' sequence='10'>
 <created><datetime dst='true'>20180920T214138,96+02</datetime></created>
-<modified><datetime dst='true'>20180928T164838,58+02</datetime></modified>
-<revised><datetime dst='true'>20180928T164838,55+02</datetime></revised>
-<lastaccessed><datetime dst='true'>20180928T164838,57+02</datetime></lastaccessed>
+<modified><datetime dst='true'>20181002T121916,98+02</datetime></modified>
+<revised><datetime dst='true'>20181002T121916,97+02</datetime></revised>
+<lastaccessed><datetime dst='true'>20181002T121916,97+02</datetime></lastaccessed>
 <addedtofile><datetime dst='true'>20180927T155514,24+02</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></updatedby>
 <item name='IconBitmap' summary='true'>
@@ -23,14 +23,14 @@ d30fAAAAAPHXd33Xd3d913d9HwAAAADx13d913d3fdd3fR8AAAAA8R3d0dd3d30d3dEfAAAAAA8R
 EREdd3fRERER8AAAAAAA////Ed3dEf///wAAAAAAAAAAAPERER8AAAAAAAAAAAAAAAAP///wAAAA
 AAAAAAACICABAAD/////+A4DgA==
 </rawitemdata></item>
-<item name='$TITLE'><text>ACL Modify</text></item>
 <item name='$UpdatedByLimit'><number>0</number></item>
 <item name='$RevisionsLimit'><number>0</number></item>
-<item name='$SoftDeleteExpireHours'><number>48</number></item>
 <item name='$LaunchXPageRunOnServer'><text>0</text></item>
-<item name='$FlagsNoRefresh'><text/></item>
-<item name='$DefaultFrameset'><text>Frameset</text></item>
 <item name='$LargeSummary'><text>0</text></item>
 <item name='$Daos'><text>0</text></item>
-<item name='$Flags'><text>J7F4</text></item></note>
+<item name='$SoftDeleteExpireHours'><number>48</number></item>
+<item name='$DefaultFrameset'><text>Frameset</text></item>
+<item name='$TITLE'><text>ACL Modify</text></item>
+<item name='$Flags'><text>J47F</text></item>
+<item name='$FlagsNoRefresh'><text>rv</text></item></note>
 
