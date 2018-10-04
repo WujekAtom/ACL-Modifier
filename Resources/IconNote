@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
- maintenanceversion='1.10' replicaid='C125830E006C2EDE'>
-<noteinfo noteid='126' unid='8878EC9E6E564742C125830E006C2EE8' sequence='10'>
-<created><datetime dst='true'>20180920T214138,96+02</datetime></created>
-<modified><datetime dst='true'>20181002T121916,98+02</datetime></modified>
-<revised><datetime dst='true'>20181002T121916,97+02</datetime></revised>
-<lastaccessed><datetime dst='true'>20181002T121916,97+02</datetime></lastaccessed>
-<addedtofile><datetime dst='true'>20180927T155514,24+02</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></updatedby>
+ maintenanceversion='1.10' replicaid='C125831B00572785'>
+<noteinfo noteid='11e' unid='16B5964C1C7E1C2CC125831B0057278F' sequence='11'>
+<created><datetime dst='true'>20181003T175157,59+02</datetime></created>
+<modified><datetime dst='true'>20181004T134254,17+02</datetime></modified>
+<revised><datetime dst='true'>20181004T134254,16+02</datetime></revised>
+<lastaccessed><datetime dst='true'>20181004T134254,16+02</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20181003T175157,61+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Administrator/O=SRV</name></updatedby>
+<wassignedby><name>CN=Administrator/O=SRV</name></wassignedby>
 <item name='IconBitmap' summary='true'>
 <rawitemdata type='6'>
 AiAgAQAA///////wD///4Af//8AD//4AAH/8AAA/+AAAH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAA
