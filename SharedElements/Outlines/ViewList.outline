@@ -1,20 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note class='filter' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.10'
  replicaid='C125830E006C2EDE'>
-<noteinfo noteid='16e' unid='2BE7987800F912D5C125830E006CD424' sequence='3'>
+<noteinfo noteid='16e' unid='2BE7987800F912D5C125830E006CD424' sequence='7'>
 <created><datetime dst='true'>20180920T214841,96+02</datetime></created>
-<modified><datetime dst='true'>20180927T155558,17+02</datetime></modified>
-<revised><datetime dst='true'>20180920T215311,91+02</datetime></revised>
-<lastaccessed><datetime dst='true'>20180927T155558,16+02</datetime></lastaccessed>
+<modified><datetime dst='true'>20181004T125304,48+02</datetime></modified>
+<revised><datetime dst='true'>20181004T125304,47+02</datetime></revised>
+<lastaccessed><datetime dst='true'>20181004T125304,47+02</datetime></lastaccessed>
 <addedtofile><datetime dst='true'>20180927T155558,16+02</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></updatedby>
 <wassignedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></wassignedby>
 <item name='$SiteMapList' sign='true'>
 <rawitemdata type='1a'>
-AQYBAAEAAQBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAABAEgASAABDAAAZAAAAAAAAAAQAAAALAAAAAAAAAAMAAAAAAAAAAAA
+AQYBAAEAAgBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAACAEgASAARCAAAZAAAAAAAAAAQAAAALAAAAAAAAAAMAAAAAAAAAAAA
 AwACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFQWxsIGRhdGFiYXNlcwABAPb/KQAA
-AAAAAwACAAcAAAAAAAAAAAAAAAAAAAAAAAAAAABEZWZhdWx0PwAFVmlld0ZyYW1lAA==
+AAAAAwACAAcAAAAAAAAAAAAAAAAAAAAAAAAAAABEZWZhdWx0PwAFVmlld0ZyYW1lAEgARgARCAAA
+ZQAAAAAAAAAMAAAALgAAAAAAAAAMAAAAAAAAAAAAAwACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAFQnkgZm9sZGVyAAEA9v8sAAAAAAADAAIACgAAAAAAAAAAAAAAAAAAAAAAAAAAAGJ5
+Y2F0ZWdvcnkABVZpZXdGcmFtZQA=
 </rawitemdata></item>
 <item name='$TITLE'><text>ViewList</text></item>
 <item name='$Flags'><text>m</text></item>
