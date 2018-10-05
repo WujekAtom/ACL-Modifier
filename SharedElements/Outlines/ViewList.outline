@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outline xmlns="http://www.lotus.com/dxl" name="ViewList" publicaccess="false">
+  <outlineentry label="About" type="namedelementlink">
+    <imageref database="C125830E006C2EDE" name="aclModifier_icon64x64.png"/>
+    <namedelementlink type="page" name="About"/>
+  </outlineentry>
   <outlineentry label="All databases" type="namedelementlink" targetframe="ViewFrame" hide="web">
     <imageref database="C125830E006C2EDE" name="alldocs.png"/>
     <namedelementlink type="view" name="Default"/>
