@@ -1,75 +1,86 @@
-<?xml version='1.0' encoding='utf-8'?>
-<note class='view' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.10'
- replicaid='C125830E006C2EDE'>
-<noteinfo noteid='19f6' unid='CE83D3B66AD217C1C125831C0028C066' sequence='26'>
-<created><datetime dst='true'>20181004T092506,94+02</datetime></created>
-<modified><datetime dst='true'>20181004T134730,41+02</datetime></modified>
-<revised><datetime dst='true'>20181004T134730,40+02</datetime></revised>
-<lastaccessed><datetime dst='true'>20181004T134730,40+02</datetime></lastaccessed>
-<addedtofile><datetime dst='true'>20181004T092506,97+02</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></updatedby>
-<wassignedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></wassignedby>
-<item name='$FormatNote' summary='true'>
-<rawitemdata type='4'>
-AQBVNIwgYC/7vecubAAOgyXB
-</rawitemdata></item>
-<item name='$FormulaClass' sign='true'><text>1</text></item>
-<item name='$TITLE' sign='true'><text>bycategory</text></item>
-<item name='$Index' sign='true'><text/></item>
-<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
-vAABADoADQBwYXRoACwfPQAcgyUAAAUABgBkYlBhdGgBAAEAXAAFAAoAZGJGaWxlTmFtZSICVgFf
-AgMAAgAcAAIAJDUFAA0AcGF0aAAsHz0AHIMlAAADAAUANgAxAAUAAgAKAAoACQAEACQ1ZGJGaWxl
-TmFtZXNlcnZlck5hbWUkQ29uZmxpY3QkUkVGAAQABAAAABwABQAEAEZvcm0BAAYAQUNMZG9jCgIE
-AAMABwAOAAgACUwxUzNTNFM=
-</formula></item>
-<item name='$Collation' summary='true'>
-<rawitemdata type='2'>
-DwABAABEAGYHAAACACQ1
-</rawitemdata></item>
-<item name='$ViewFormat' summary='true' sign='true'>
-<rawitemdata type='5'>
-AQAEAAcAiAAAAFZDAAACAAAAEAAGABwAAQAACgAAAAAAAAAAAAICAAAAVkMDBAIACQDUAAAA8QAB
-AAAKAAAAAAAAAAAAAgIAAABWQwAACgAJAAAAAADAAAEAAAoAAAAAAAAAAAACAgAAAFZDAAAKAAAA
-AAAAAFAAAQAACgAAAAAAAAAAAAICAAAAJDMQAAIADgACACQzAQAAAAMAAQUBAAAAJDVGaWxlIHBh
-dGjUAAcAVABOAEBJZihAQ29udGFpbnMoZGJQYXRoOyJcIik7IGRiUGF0aDsgIiIpOwBASWYoQENv
-bnRhaW5zKHBhdGg7IlwiKTsgcGF0aDsgIlJvb3QiKQcADAAFAAkwUzBFAAEAOgANAHBhdGgALB89
-AByDJQAABQAGAGRiUGF0aAEAAQBcAAUACgBkYkZpbGVOYW1lIgJWAV8CAwAHABIACwAJMFJSNlM5
-UzEwUwACABwAAgAkNQUADQBwYXRoACwfPQAcgyUAAAMABwAKAAMACTBSAGRiRmlsZU5hbWVGaWxl
-IG5hbWVzZXJ2ZXJOYW1lJgABAAAAAQEACQEAAAoBAQ4KAABPAK0rAQABAAEAAAAAAAAAAABXQwEB
-AAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAD//wAAAAAAAAAAAAAAAAAAV0MBAQAJAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAA//8AAAAAAAAAAAAAAAAAAFdDAQEACQAAAAAAAAAAAAAAAAAAAAAAAAQA
-AAAAAP//AAAAAAAAAAAAAAAAAABXQwEBAAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAD//wAAAAAA
-AAAAAAAAAAAAQgAQAAAAAQD///8AAQDh4eEAAQAAAAAAAAAAAAAAAAABAP///wABAP///wAAAAEA
-AAAAAAEAAAAAAAEAAAAAAAAACAAAAAAAAQA=
-</rawitemdata></item>
-<item name='$Comment' sign='true'><text/></item>
-<item name='$Flags'><text>PY</text></item>
-<item name='$DesignerVersion'><text>8.5.3</text></item>
-<item name='$V5ACTIONS' sign='true'>
-<rawitemdata type='1'>
-vRw/AAAAAQABAAAAAQAAAAAAAAAAAAAACAACAHn/bAABAPDw8AABAAAAAAAJAAAAAAABAPDw8AAA
-AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAC+/yYAAAAFAAAAnQEAAAsAAAAAAAAAQ2F0ZWdvcmlfemUA
-AQBOfL7/SgAAAAEAZgCfAQAADAAAAAAAAABBZGQgZGF0YWJhc2UoAAAAHAACAOgDAAAAAAAAAQAG
-AEFDTERvY+0CAwAHAAoAAwAJNFMAvv8kAAAAAQCaAJ8BAAANAAAAAAAAAEFkZCBBQ0wgZW50cnkA
-vv9GAAAAAwAJAJ8BAAAPAAAAAAAAAFNldCBBQ0wgZW50cmllcwAQAIECkP8bAAAAAAAPAAAAKHNl
-dEFDTGVudHJpZXMpAF//EAABANUAAQAAAAAAAAC+/0IAAAADAJEAnwEAABIAAAAAAAAAUmVsb2Fk
-IEFDTCBlbnRyaWVzEACBApD/FQAAAAAACQAAAChyZWFkQUNMKQBf/xAAAQDVAAEAAAAAAAAAvv9U
-AAAAAQCQAJ8BAAANAAAAAAAAAENvbmZpZ3VyYXRpb24AMAAAACQAAgAiJwAAAAAAAAEADQBDb25m
-aWd1cmF0aW9uAO0CAwAHAAoAAwAJNFMAvv8oAAAABQAAAJ0BAAAOAAAAAAAAAF9FZGl0IERvY3Vt
-ZW50BwACCr7/KAAAAAUAAACdAQAADgAAAAAAAABfU2VuZCBEb2N1bWVudAgAAwq+/yIAAAAFAAAA
-nQEAAAgAAAAAAAAAX0ZvcndhcmQJAAQKvv8sAAAABQAAAJ0BAAASAAAAAAAAAF9Nb3ZlIFRvIEZv
-bGRlci4uLgoAPXy+/y4AAAAFAAAAnQEAABMAAAAAAAAAX1JlbW92ZSBGcm9tIEZvbGRlcgALAD58
-vv8gAAAABQAAAJ0BAAAFAAAAAAAAAF9SZWFk8gwAXny+/yIAAAAFAAAAnQEAAAcAAAAAAAAAX1Vu
-cmVhZAANAG58vv8uAAAABQAAAJ0BAAATAAAAAAAAAF9PcGVuIGluIE5ldyBXaW5kb3cADgB+fL7/
-JAAAAAUAAACdAQAACQAAAAAAAABfUHJpbnQuLi4ADwCOfL7/IgAAAAUAAACdAQAABwAAAAAAAABf
-RGVsZXRlcxAAnny+/y4AAAAFAAAAnQEAABQAAAAAAAAAX0RvY3VtZW50IFByb3BlcnRpZXMRAK58
-vv9GAAAAAwBlAJ8BAAARAAAAAAAAAFNjYW4gREIgb24gc2VydmVyABAAgQKQ/xkAAAAAAA0AAABz
-Y2FuRGF0YWJhc2VzAF//EAABANUAAQAAAAAAAAC+/x4AAAAFAAAAnQEAAAQAAAAAAAAAQ191dBMA
-vny+/yAAAAAFAAAAnQEAAAUAAAAAAAAAX0NvcHkKFADOfL7/MAAAAAUAAACdAQAAFgAAAAAAAABD
-b3B5IGFzIERvY3VtZW50IF9MaW5rFQDefL7/KAAAAAUAAACdAQAADgAAAAAAAABDb3B5IGFzIF9U
-YWJsZRYA7ny+/yAAAAAFAAAAnQEAAAYAAAAAAAAAUF9hc3RlFwD+fL7/IAAAAAUAAACdAQAABQAA
-AAAAAABfT3BlbgwYAA59vv8iAAAABQAAAJ0BAAAIAAAAAAAAAEJvb2ttYXJrGQAefQ==
-</rawitemdata></item></note>
+<?xml version="1.0" encoding="UTF-8"?>
+<view xmlns="http://www.lotus.com/dxl" name="bycategory" showinmenu="false" noreplace="true" publicaccess="false" unreadmarks="none" onopengoto="lastopened" onrefresh="displayindicator" headers="beveled" opencollapsed="false" showresponsehierarchy="true" showmargin="true" shrinkrows="false" extendlastcolumn="false" showhierarchies="false" unreadcolor="black" rowlinecount="1" headerlinecount="1" rowspacing="1" bgcolor="white" altrowcolor="#e1e1e1" totalscolor="black" headerbgcolor="white" boldunreadrows="false" evaluateactions="false" allownewdocuments="false" allowcustomizations="false" hidemarginborder="false" marginwidth="0px" marginbgcolor="white" uniquekeys="false">
+  <code event="selection">
+    <formula>SELECT (Form = "ACLdoc")</formula>
+  </code>
+  <actionbar bgcolor="#f0f0f0" bordercolor="black">
+    <actionbuttonstyle bgcolor="#f0f0f0"/>
+    <font color="system"/>
+    <border style="solid" width="0px 0px 1px"/>
+    <action title="Categori_ze" showinbar="false" systemcommand="categorize"/>
+    <action title="Add database" icon="102">
+      <code event="click">
+        <formula>@Command([Compose]; "ACLDoc")</formula>
+      </code>
+    </action>
+    <action title="Add ACL entry" icon="154"/>
+    <action title="Set ACL entries" icon="9">
+      <code event="action">
+        <simpleaction action="runagent" agent="(setACLentries)"/>
+      </code>
+    </action>
+    <action title="Reload ACL entries" icon="145">
+      <code event="action">
+        <simpleaction action="runagent" agent="(readACL)"/>
+      </code>
+    </action>
+    <action title="Configuration" icon="144">
+      <code event="click">
+        <formula>@Command([EditProfileDocument]; "Configuration")</formula>
+      </code>
+    </action>
+    <action title="_Edit Document" showinbar="false" systemcommand="edit"/>
+    <action title="_Send Document" showinbar="false" systemcommand="send"/>
+    <action title="_Forward" showinbar="false" systemcommand="forward"/>
+    <action title="_Move To Folder..." showinbar="false" systemcommand="movetofolder"/>
+    <action title="_Remove From Folder" showinbar="false" systemcommand="removefromfolder"/>
+    <action title="_Read" showinbar="false" systemcommand="markread"/>
+    <action title="_Unread" showinbar="false" systemcommand="markunread"/>
+    <action title="_Open in New Window" showinbar="false" systemcommand="openinnewwindow"/>
+    <action title="_Print..." showinbar="false" systemcommand="print"/>
+    <action title="_Delete" showinbar="false" systemcommand="delete"/>
+    <action title="_Document Properties" showinbar="false" systemcommand="properties"/>
+    <action title="Scan DB on server" icon="101">
+      <code event="action">
+        <simpleaction action="runagent" agent="scanDatabases"/>
+      </code>
+    </action>
+    <action title="C_ut" showinbar="false" systemcommand="cut"/>
+    <action title="_Copy" showinbar="false" systemcommand="copy"/>
+    <action title="Copy as Document _Link" showinbar="false" systemcommand="copyasdoclink"/>
+    <action title="Copy as _Table" showinbar="false" systemcommand="copyastable"/>
+    <action title="P_aste" showinbar="false" systemcommand="paste"/>
+    <action title="_Open" showinbar="false" systemcommand="open"/>
+    <action title="Bookmark" showinbar="false" systemcommand="bookmark"/>
+  </actionbar>
+  <column hidedetailrows="false" itemname="$3" width="3.5000" resizable="true" separatemultiplevalues="false" sortnoaccent="false" sortnocase="true" showaslinks="false">
+    <columnheader>
+      <font size="9pt" style="bold"/>
+    </columnheader>
+    <code event="value">
+      <formula>""</formula>
+    </code>
+  </column>
+  <column sort="ascending" hidedetailrows="false" itemname="$5" width="30.1250" resizable="true" separatemultiplevalues="true" sortnoaccent="true" sortnocase="true" showaslinks="false" categorized="true" twisties="true">
+    <columnheader title="File path">
+      <font size="9pt" style="bold"/>
+    </columnheader>
+    <code event="value">
+      <formula>REM{@If(@Contains(dbPath;"\\"); dbPath; "");
+@If(@Contains(path;"\\"); path; "Root")};
 
+path:=@Left(dbPath; @Text("\\" + dbFileName));
+path</formula>
+    </code>
+  </column>
+  <column hidedetailrows="false" itemname="dbFileName" width="24" resizable="true" separatemultiplevalues="false" sortnoaccent="false" sortnocase="true" showaslinks="false">
+    <columnheader title="File name">
+      <font size="9pt" style="bold"/>
+    </columnheader>
+  </column>
+  <column hidedetailrows="false" itemname="serverName" width="8.7500" resizable="true" separatemultiplevalues="false" sortnoaccent="false" sortnocase="true" showaslinks="false">
+    <columnheader>
+      <font size="9pt" style="bold"/>
+    </columnheader>
+  </column>
+</view>
