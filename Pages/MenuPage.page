@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page xmlns="http://www.lotus.com/dxl" name="MenuPage" publicaccess="false" renderpassthrough="true">
+  <actionbar bgcolor="#f0f0f0" bordercolor="black">
+    <actionbuttonstyle bgcolor="#f0f0f0"/>
+    <font color="system"/>
+    <border style="solid" width="0px 0px 1px"/>
+    <action title="Categori_ze" showinbar="false" systemcommand="categorize"/>
+    <action title="_Edit Document" showinbar="false" systemcommand="edit"/>
+    <action title="_Send Document" showinbar="false" systemcommand="send"/>
+    <action title="_Forward" showinbar="false" systemcommand="forward"/>
+    <action title="_Move To Folder..." showinbar="false" systemcommand="movetofolder"/>
+    <action title="_Remove From Folder" showinbar="false" systemcommand="removefromfolder"/>
+    <action title="_Read" showinbar="false" systemcommand="markread"/>
+    <action title="_Unread" showinbar="false" systemcommand="markunread"/>
+    <action title="_Open in New Window" showinbar="false" systemcommand="openinnewwindow"/>
+    <action title="_Print..." showinbar="false" systemcommand="print"/>
+    <action title="_Delete" showinbar="false" systemcommand="delete"/>
+    <action title="_Document Properties" showinbar="false" systemcommand="properties"/>
+    <action title="C_ut" showinbar="false" systemcommand="cut"/>
+    <action title="_Copy" showinbar="false" systemcommand="copy"/>
+    <action title="Copy as Document _Link" showinbar="false" systemcommand="copyasdoclink"/>
+    <action title="Copy as _Table" showinbar="false" systemcommand="copyastable"/>
+    <action title="P_aste" showinbar="false" systemcommand="paste"/>
+    <action title="_Open" showinbar="false" systemcommand="open"/>
+    <action title="Bookmark" showinbar="false" systemcommand="bookmark"/>
+  </actionbar>
   <body>
     <richtext>
-      <pardef id="1" leftmargin="0.6063in" hide="web"/>
+      <pardef id="1" leftmargin="15%" hide="web"/>
       <par def="1">
-        <embeddedoutline outline="ViewList" showtwistie="true" scrollbars="false" type="flat" widthtype="fitwindow" heighttype="fixed" height="0.4833in" expand="none">
+        <embeddedoutline outline="ViewList" showtwistie="true" scrollbars="false" type="flat" widthtype="fitcontent" heighttype="fixed" width="7.2250in" height="0.4833in" columnwidth="1in" expand="none">
           <title>
             <layout labelalign="middleleft" entryhoffset="0.3938in" entryvoffset="0.0396in" labelhoffset="0" labelvoffset="0"/>
           </title>
           <toplevel>
-            <layout labelalign="topleft" heighttype="fixed" entryhoffset="0.3938in" entryvoffset="0.0785in" imagealign="topleft" labelhoffset="0.2000in" labelvoffset="0"/>
+            <layout labelalign="topleft" heighttype="fixed" entryvoffset="0.0785in" imagealign="topleft" labelhoffset="0.2396in" labelvoffset="0"/>
           </toplevel>
           <sublevel>
             <layout labelalign="topleft" entryhoffset="0.2000in" imagealign="topleft" labelhoffset="0.2000in" labelvoffset="0"/>

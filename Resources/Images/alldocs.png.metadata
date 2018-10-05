@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<imageresource xmlns="http://www.lotus.com/dxl" name="alldocs.png" publicaccess="false">
+<imageresource xmlns="http://www.lotus.com/dxl" name="alldocs.png" publicaccess="false" refresh="true">
   <jpeg>
 iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA
 AAG7AAABuwE67OPiAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAtNQTFRF
@@ -32,7 +32,4 @@ M0AG7OMWxsI1uoM0cOY6Z0ijOzgO/bluLXgwwGuAfp1Nel6ATArkQJy5qal5HORQwBMO9DDp1Btg
 EQP8uQ9w6QzA9S8UKE4GiIoCSC6mwIRTALuOAGwfxD7Gokzumd/9hOdAm8J1KVo8B9P2cp2ndTWT
 +PHNqw9/mUksyM0tYCZxxOyli6caPnkMgAio9cd37T7//wH/Z1Dch88SJwAAAABJRU5ErkJggg==
 </jpeg>
-  <item name="$MimeType" sign="true">
-    <text>image/png</text>
-  </item>
 </imageresource>
