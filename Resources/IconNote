@@ -25,6 +25,9 @@ AAAAAAACICABAAD/////+A4DgA==
   <item name="$LargeSummary">
     <text>0</text>
   </item>
+  <item name="$Daos">
+    <text>0</text>
+  </item>
   <item name="$SoftDeleteExpireHours">
     <number>48</number>
   </item>
@@ -39,9 +42,6 @@ AAAAAAACICABAAD/////+A4DgA==
   </item>
   <item name="$FlagsNoRefresh">
     <text>rv</text>
-  </item>
-  <item name="$Daos">
-    <text>0</text>
   </item>
   <item name="$TITLE">
     <text>ACL Modifier</text>
