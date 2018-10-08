@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page xmlns="http://www.lotus.com/dxl" name="MenuPage2" publicaccess="false" renderpassthrough="true">
+  <body>
+    <richtext>
+      <pardef id="1" leftmargin="0%"/>
+      <par def="1">
+        <embeddedoutline name="nav2" outline="ViewList" showtwistie="true" type="flat" display="horizontal" widthtype="fixed" heighttype="fixed" width="3.9368in" height="0.9965in" columnwidth="1in" expand="none" targetframe="ViewContent">
+          <title>
+            <layout labelalign="topleft" labelhoffset="0" labelvoffset="0"/>
+          </title>
+          <toplevel>
+            <font name="Verdana" pitch="variable" truetype="true" familyid="20"/>
+            <layout labelalign="bottomcenter" heighttype="fixed" height="0.8861in" entryvoffset="0.1181in" imagealign="topcenter" labelhoffset="0.3938in" labelvoffset="0.1181in"/>
+          </toplevel>
+          <sublevel>
+            <layout labelalign="topleft" entryhoffset="0.2000in" imagealign="topleft" labelhoffset="0.2000in" labelvoffset="0"/>
+          </sublevel>
+        </embeddedoutline>
+      </par>
+    </richtext>
+  </body>
+</page>

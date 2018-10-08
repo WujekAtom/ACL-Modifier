@@ -1,157 +1,165 @@
-<?xml version='1.0' encoding='utf-8'?>
-<note class='filter' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.10'
- replicaid='C125831B00572785'>
-<noteinfo noteid='33e' unid='4C5FBADC50DC5F1BC125831B00572A74' sequence='9'>
-<created><datetime dst='true'>20181003T175205,00+02</datetime></created>
-<modified><datetime dst='true'>20181004T154914,10+02</datetime></modified>
-<revised><datetime dst='true'>20181004T154914,09+02</datetime></revised>
-<lastaccessed><datetime dst='true'>20181004T154914,09+02</datetime></lastaccessed>
-<addedtofile><datetime dst='true'>20181003T175207,26+02</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Administrator/O=SRV</name></updatedby>
-<wassignedby><name>CN=Administrator/O=SRV</name></wassignedby>
-<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
- compression='none' flags='sign' encoding='none' name='%%source%%.jar' size='1745'>
-<created><datetime dst='true'>20180927T121448,04+02</datetime></created>
-<modified><datetime dst='true'>20181004T154913,96+02</datetime></modified><filedata
->
-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
-</filedata></file></object></item>
-<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
- compression='none' flags='sign' encoding='none' name='%%object%%.jar' size='2574'>
-<created><datetime dst='true'>20180927T121448,04+02</datetime></created>
-<modified><datetime dst='true'>20181004T154913,96+02</datetime></modified><filedata
->
-UEsDBBQACAgIACZ+RE0AAAAAAAAAAAAAAAAPAAAASmF2YUFnZW50LmNsYXNzjVd5YFt1Hf/82iYv
-TV+PhW0llLLMwdZuXQsqdaTUrUs76Mi6sbSd2aG8Jq9dRpoXkpduBaZOJgLTKYrMTUEQtCKKbGi6
-MBlecwyvbQKKird43/c1/fzeS0rXpsP+0fc7vr/v+fkeefrM40cBNOOMghKB8tXaiNYxpCdMBWUC
-c+OGmUm3RI3hWMJosc5XamldwHllLBEzXytQ2tDYL1AWMKK6G6UoV+GAU6A6GEvoPZnhAT3Vqw3E
-+cITNCJavF9LxeQ+f1hmbo2lBSqCE2LbqEOPYerpNVos4YZAjYpZ8Ai4h3QzpKfTMSMhcH5DY/As
-1fI3bRWYjbkK5gjMLnavohbnUzvysqQFjISp7zAF6qcynHzdpuACKrKNOrbEtcRQS8hMxRJDLlwo
-4OpZ2xEIdIVCLlwkoKzREtqQnnLBx6tOPR0bSsjdK+ixrmjMNLi+mOuOjLlVrhdyvV7XopKmgZZ3
-6kkjLckULKYJAWN42Ej0mbF4y1V93cmUMZw03WhEuQtLBZYFthpGWvdpkQit88X1ET3uMw1fWjfl
-R4vHfR2BYNpHQ1IxPV04iw5IFi0qLsVldH0skcyYG2KJqLFd4IqGTcGpZrZNP2mcflSOV+FyBa8+
-20+jaVMfVtGK1xApRoaOnmM/jRkt6/jO5GtdG6aDryDYpjJdmRkclJ6RmNg+OpDSEobf58YytEuU
-EXxzGoro1i8pVqjowEp6V0sm9URUoKkY6bQjW2Kb5NCpogurGEXTsO8Yj4YihrtxNVYr6BY4r4hl
-Kq6RiipJeRQnoL1Yo6IHa6mafkNGi6enWLF2YJseMdsaN0rsX6tiPUIkZUgZSuZLQ7e0rw8bFDDt
-6s6CrJU2XTsietK0oP46KxGTtjJa5PrelBZhkm6UjzcV1LWETjyipulCjs0tnmECqnZW6tSdI3Fk
-ACx0UlwRZBEUQ5mYFFUM6bwWaVk4irxzRizsk4KOL0lwUR88hzMkK30CfGfbzDv3xCZdgQSSCgwB
-74xmqbgBKYFaVpG+BHWVBurRTiOSGSYRVV4wtZoU7gJGPM7w2pXKxIiCjMC8lyFVsR07mFcUtyqW
-SpsFCqo4kxwm1I0CF03yqqwy61LGYCyuF4jcGMXNMpN2Sk7Foy3RNoo3qXizVMFDFaYwceEtAnBh
-N72Y1lMjeqpHG9YrcCtuU/A2uryofipuxx02v25WiH4tntELWbbw/8rUNhfeTpFaJM7YxTNRS+Re
-Fe/Eu4jQyXzPyTEjfdNPPxspKyLvVvEe3MWsJ4eAkZFOZofrlnl7t4p9eB8zZERyXTsoE7e7qGIH
-iHZfVDO1AfZKq+7qrP3NLnxA4IL29vZQb8f6Xl8eOHzS3NzMU7cL9xLY0YF1mrlV9rH7VNyPD7FE
-U5fOPDeB9iLGFDPvbL/nn1O5B6lc+7Q/dwU+go8qGJsWsfxLFQ/JalhhgTCuyyC78DB5uaczk7w+
-oeIRfJL2DOVL1+xpHTYQpMsP4jEFh4juqXcqPoVPC1QWUN/FLjZaBPIkta7Iaxw5BYenWlAgUPG4
-tEAhQ6m9DGmnG0/gSQVHC11rEhxUfBafIzk7o77DjnaRMt0tpX5BxRdlmXaxTAdlF5a8vyThcnwK
-+ArPiqHmBOFc7gt19RIwdpv7smxiX2GFLYazfKuSHvyaiq/jpA37HtanvKsubZjBU+fy4GkV35B9
-Q0npkdFIXJf8n1XxHL4pUBVhSzP1An3xpto9E3cXnmfNdAe0RMIwfVo0KqcTazgZ9fukmO+o+K4U
-XZbWRiy5p2VGfl/FD/BDe2aTxr1U/abaN1H8ZiqKskScduEnbAZMthftZFzV3dMdurqrc1I+ynwQ
-cFgDFfNfG6KwkmhEYP7LVnWSRw1S1s6ggkxwI9I7nJQcB6bTFfJUio3EZfObljPEmax6dgRqZ3C2
-1Xjjtpwke5UveO5e0GbNKNaRzb9bwt6aPGRNZ+LrdpkNxtLmRE+eXD2J3pCRSUX0VRaPqomJvlmS
-Yj7HmVLIv1Ku+BuB/xXuWvhlA4Fj8ThcB7kogZv/ndZhHSr4X7UJ+K3kl6wLj8WjKLOYPLc4y18c
-S3I4T2BNjfIEvOFST10oXOapD4UdnnmhsNMzPxRWPAtCYZfnklC4xulZFOo5gsbwOJb4y7xlSz1N
-WTT7HYfwyiNYFvb4x3Gl15HF8iwCWVxV2ur0Ojx1WQT3w2lvFtmbMmtzib1xWJsF9sZpbebbG8Xa
-zLM3LmtTb22UGtItnuPMYt0YaoJLsugdg0t+wwfpC+AYnuK8J78nObrZ3unHHP730Sfz6ZWLOV8v
-xHIsQjcacB2H+wiWIIkm7MRS3MHfdvvo5gc57x/EZXiSg/oxXE6urTjBInMSfpxCG55Fu+XtzSiX
-Hs1728EquBlb6G8VObweb6AGrWyy10FjIJczoQYorYySb0YUOukjPBnEEGN0gudbEePbU1xtw/VW
-qDnQkkecvMu465PxK72Gaw/jOS7juKbJimPP0hyGBWRwcuBM5XcIv1P4FeF3CX+58LuPYDTcNI6b
-/BXeiize6FdLWis9u/xVXtVzSw5vLYG/mss9ObyDy5p8YCWzOwUO470MsGf/RIB57Xk/v2OigaG5
-x35f5a327LKiNKtJeKty+GAp/MoYqpu81RPbAmIekIhRcviwALl6PjbBWh5+nPq7vK4cHuWifAzb
-vDXe8hyykvZIFp9prZxTWXIf2vOH3mpKPYBmb3ldDp8vQUF5+/Ywjknln6IEIvLpvBSXvP0qtXbL
-xSkycfvLveXH/7uPV9U1zhyeKcWGMVzon1VQ+VtS5eqXFKV+3+Y7fl7gp8zryOF7ZOiUix/xxGnl
-h+fHktZx/MzzcvNTbg5CiD6hiSjDaQP0KAEHNi8HVhI4AQ4znajn7ykfVmEBfzAtJGAasZoQDRJO
-awi9tViBdaS6lqv1BHo/x84N2IUwdmMTAbcZ+wnDMQLwMULvGcLsBQLuRULtFwTWPwmVas7StRgR
-foyKLo6/Qdwk1mFQ9GGX0DilRnGLGMStYiduE7txu9jDCfRu7BH3cJC8H3vFQwiLRwiOLCdAmQhZ
-G5L5RJCrnxHWrF3iECVvoaWqeBg/p0almC0eoB6/JIzrxQH8Cr+m5T6xD7/hyokF4i78Fr8j1BeK
-O/F7/IHzcqPYiz/iT0y2JmryZ67caBW78Bf8ldLbxY34G9+qWCG24++UW4lOkca9TLEq/njcin9w
-VY2NYgtt/xdqaFmtlWyzqOG/rTL6n/8BUEsHCHX/gZF+CQAA2xEAAFBLAQIUABQACAgIACZ+RE11
-/4GRfgkAANsRAAAPAAAAAAAAAAAAAAAAAAAAAABKYXZhQWdlbnQuY2xhc3NQSwUGAAAAAAEAAQA9
-AAAAuwkAAAAA
-</filedata></file></object></item>
-<item name='$JavaCompilerSource'><text>1.3</text></item>
-<item name='$JavaCompilerTarget'><text>1.2</text></item>
-<item name='$AssistVersion'><datetime dst='true'>20181004T154914,02+02</datetime></item>
-<item name='$TITLE' sign='true'><text>(setACLentries)</text></item>
-<item name='$AssistType' sign='true'><number>65427</number></item>
-<item name='$AssistLastRun' sign='true'>
-<rawitemdata type='400'>
-AAAAAAAAAAA=
-</rawitemdata></item>
-<item name='$AssistDocCount' sign='true'><number>0</number></item>
-<item name='$FlagsExt' sign='true'><text>D</text></item>
-<item name='$AssistFlags' sign='true'><text>EHs</text></item>
-<item name='$AssistTrigger'><text>4</text></item>
-<item name='$AssistInfo' sign='true'>
-<rawitemdata type='11'>
-AQAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-</rawitemdata></item>
-<item name='$AssistQuery' sign='true'>
-<rawitemdata type='f'>
-gQYAAAAA
-</rawitemdata></item>
-<item name='$AssistAction' sign='true'>
-<rawitemdata type='10'>
-gQKT/1wADwANAB8ADwAAAAAAAABKYXZhQWdlbnQuY2xhc3NjOlxOb3Rlc1xEYXRhJSVzb3VyY2Ul
-JS5qYXIAJSVvYmplY3QlJS5qYXIAAENvbW1vblV0aWxpdHkAAA==
-</rawitemdata></item>
-<item name='$AssistAction_Ex' sign='true'>
-<rawitemdata type='14'>
-gQI=
-</rawitemdata></item>
-<item name='$Restricted' sign='true'><number>0</number></item>
-<item name='$Flags'><text>fJj3</text></item>
-<item name='$DesignerVersion'><text>8.5.3</text></item>
-<item name='$AssistRunInfo' summary='true'>
-<rawitemdata type='3'>
-BgABAAAACABeBAAAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAA6gAAAAAAAAAAAAAAAAAAABAAAAAA
-AAAAmO5LAByDJcEAAAAAMutLAByDJcGFJ1cAG4MlwQAAAAAAAAAAAAAAAAAAAAAAAAAAU3RhcnRl
-ZCBydW5uaW5nIGFnZW50ICdzZXRBQ0xlbnRyaWVzJyBvbiAyMDE4LTEwLTA0IDE1OjQ5OjE4DQpS
-dW5uaW5nIG9uIHNlbGVjdGVkIGRvY3VtZW50czogMSB0b3RhbA0KRm91bmQgMSBkb2N1bWVudChz
-KSB0aGF0IG1hdGNoIHNlYXJjaCBjcml0ZXJpYQ0KUmFuIEphdmEgQWdlbnQgQ2xhc3MNCkRvbmUg
-cnVubmluZyBhZ2VudCAnc2V0QUNMZW50cmllcycgb24gMjAxOC0xMC0wNCAxNTo0OToyMg0KAA0K
-uHYGCcwZNmT87EsAHIMlwaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqq
-</rawitemdata></item></note>
+<?xml version="1.0" encoding="UTF-8"?>
+<agent xmlns="http://www.lotus.com/dxl" name="(setACLentries)" hide="v3" publicaccess="false" restrictions="unrestricted">
+  <trigger type="agentlist"/>
+  <documentset type="selected"/>
+  <code event="action">
+    <javaproject class="JavaAgent.class" compiledebug="true">
+      <java name="JavaAgent.java">import java.awt.BorderLayout;
+import java.awt.FlowLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
+import java.util.Vector;
 
+import javax.swing.JButton;
+import javax.swing.JComboBox;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+
+import CommonUtil.GUIprompt;
+import CommonUtil.ReadProfileDocument;
+import lotus.domino.*;
+
+/*
+ * Created by: Tomasz Wieszczura/Poland/IBM
+ * 
+ * Status for day 3.10.2018: Agent finished.
+ */
+
+public class JavaAgent extends AgentBase {
+
+    public void NotesMain() {
+
+      try {
+          Session session = getSession();
+          AgentContext agentContext = session.getAgentContext();
+
+          // (Your code goes here)
+          String[] access = {"NOACCESS", "Manager", "Designer", "Editor", "Author", "Reader", "Depositor" };
+          
+          GUIprompt gui = new GUIprompt();
+          String s = gui.inputWindow(access, "Choose access level to set to all ACLs entries to all db");
+          System.out.println("wybrano: " + s);
+          int choose = 0;
+          
+          if (s.equals("NOACCESS")) choose = 0;
+          if (s.equals("Depositor")) choose = 1;
+          if (s.equals("Reader")) choose = 2;
+          if (s.equals("Author")) choose = 3;
+          if (s.equals("Editor")) choose = 4;
+          if (s.equals("Designer")) choose = 5;
+          if (s.equals("Manager")) choose = 6;
+          
+          setACL(choose);
+         
+      }
+      catch(NotesException ne)
+      {
+    	  ne.printStackTrace();
+      }
+      catch(Exception e) {
+          e.printStackTrace();
+       }
+   }       
+    
+    public void setACL(int level) throws NotesException
+    {
+    	Session s = getSession();
+    	AgentContext agt = s.getAgentContext();
+    	DocumentCollection dc = agt.getUnprocessedDocuments();
+    	Document doc = dc.getFirstDocument();
+    	Document docTmp = null;
+    	Database db = null;
+    	
+    	ACL acl = null;
+    	ACLEntry aclEntry = null;
+    	ACLEntry aclTmp = null;
+    	
+    	ReadProfileDocument pr = new ReadProfileDocument(s);	// Read db's configuration
+    	Document profile = pr.getProfileDocument();    	    	// ...
+    	
+    	int aclIndex = -1;
+    	String dbPath = "";
+    	String server = profile.getItemValueString("serverName");
+    	Vector excludeList = profile.getItemValue("aclExclude");
+    	
+    	//pr.printProfileDoc();
+    	
+    	System.out.println(dc.getCount() + " databases to edit.");
+    	System.out.println("===START processing...===\n");
+    	
+    	while(doc!=null)
+    	{
+    		dbPath = doc.getItemValueString("dbPath");	// get db path from current document
+    		if (server.equals(""))
+    			db = s.getDatabase(null, dbPath);			// null - maybe read server from doc? but in local it is empty...
+    		else
+    			db = s.getDatabase(server, dbPath);
+    		
+    		System.out.println("==================\n" + db.getFileName() + "\n==================");		// print db name
+    		
+    		acl = db.getACL();							// get db's ACl
+    		aclEntry = acl.getFirstEntry();				// read first entry from ACL
+    		
+    		while(aclEntry!=null)
+    		{    			
+    			// if aclIndex == -1 -&gt; entry not found in exclude list
+    			// if aclIndex != -1 -&gt; returns the index of found entry in exclude list
+    			// Looking for acl entry in exclude list
+    			aclIndex = excludeList.indexOf(aclEntry.getName().toString());
+    			//System.out.println(aclEntry.getName() + " : " + aclIndex);
+    			if (aclIndex!=-1 || aclEntry.getName().equals(server))
+    			{
+    				// This entry will NOT be change in ACL
+    				//System.out.println("This entry will NOT be change in ACL");
+    			}
+    			else
+    			{
+    				// This entry will be change in ACL
+    				aclEntry.setLevel(level);			// set level to the chose by user
+    				System.out.println(aclEntry.getName() + "\t SET to: " + level);
+    			}
+    			
+    			aclTmp = acl.getNextEntry(aclEntry);
+    			aclEntry.recycle();
+    			aclEntry = aclTmp;
+    		}
+    		try
+    		{
+    			// If server is not added to ACL list, create entry with manager rights
+    			// (just in case)
+    			acl.createACLEntry(server, 6);
+    		}
+    		catch(NotesException ne)
+    		{
+    			// Server's acl entry exist
+    			System.out.println("\nCannot add ACL entry: " + server);
+    		}
+    		acl.save();
+    		acl.recycle();
+    		docTmp = dc.getNextDocument(doc);
+    		doc.recycle();
+    		doc = docTmp;
+    		
+    		System.out.println("\n");
+    	}
+    	
+    	System.out.println("===FINISHED processing===\n");
+    	
+    }
+             
+}</java>
+      <sharedlibraryref name="CommonUtility"/>
+    </javaproject>
+  </code>
+  <item name="$JavaCompilerSource">
+    <text>1.3</text>
+  </item>
+  <item name="$JavaCompilerTarget">
+    <text>1.2</text>
+  </item>
+</agent>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<frameset xmlns="http://www.lotus.com/dxl" name="Frameset" publicaccess="false" rows="6% 94%" spacing="0px" borderwidth="3px" bordercolor="none">
+<frameset xmlns="http://www.lotus.com/dxl" name="Frameset" publicaccess="false" rows="17% 83%" spacing="0px" borderwidth="3px" bordercolor="none">
   <frame name="MenuFrame" border3d="false" scrolling="never">
-    <namedelementlink type="page" name="MenuPage"/>
+    <namedelementlink type="page" name="MenuPage2"/>
   </frame>
   <frame name="ViewFrame" border3d="false">
     <namedelementlink type="view" name="Default"/>

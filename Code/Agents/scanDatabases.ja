@@ -1,159 +1,204 @@
-<?xml version='1.0' encoding='utf-8'?>
-<note class='filter' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.10'
- replicaid='C125830E006C2EDE'>
-<noteinfo noteid='266' unid='FDB339A9DDAFCF8BC125831200532C16' sequence='47'>
-<created><datetime dst='true'>20180924T170827,74+02</datetime></created>
-<modified><datetime dst='true'>20181004T090757,26+02</datetime></modified>
-<revised><datetime dst='true'>20181004T090757,25+02</datetime></revised>
-<lastaccessed><datetime dst='true'>20181004T090757,25+02</datetime></lastaccessed>
-<addedtofile><datetime dst='true'>20180927T155559,20+02</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></updatedby>
-<wassignedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></wassignedby>
-<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
- compression='none' flags='sign' encoding='none' name='%%source%%.jar' size='2201'>
-<created><datetime dst='true'>20180924T170829,25+02</datetime></created>
-<modified><datetime dst='true'>20181004T090757,20+02</datetime></modified><filedata
->
-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
-</filedata></file></object></item>
-<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
- compression='none' flags='sign' encoding='none' name='%%object%%.jar' size='2262'>
-<created><datetime dst='true'>20180924T170829,26+02</datetime></created>
-<modified><datetime dst='true'>20181004T090757,20+02</datetime></modified><filedata
->
-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
-</filedata></file></object></item>
-<item name='$JavaCompilerSource'><text>1.5</text></item>
-<item name='$JavaCompilerTarget'><text>1.5</text></item>
-<item name='$AssistVersion'><datetime dst='true'>20181004T090757,23+02</datetime></item>
-<item name='$TITLE' sign='true'><text>scanDatabases</text></item>
-<item name='$AssistType' sign='true'><number>65427</number></item>
-<item name='$AssistLastRun' sign='true'>
-<rawitemdata type='400'>
-AAAAAAAAAAA=
-</rawitemdata></item>
-<item name='$AssistDocCount' sign='true'><number>0</number></item>
-<item name='$FlagsExt' sign='true'><text/></item>
-<item name='$AssistFlags' sign='true'><text>Es</text></item>
-<item name='$AssistTrigger'><text>4</text></item>
-<item name='$AssistInfo' sign='true'>
-<rawitemdata type='11'>
-AQAEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-</rawitemdata></item>
-<item name='$AssistQuery' sign='true'>
-<rawitemdata type='f'>
-gQYAAAAA
-</rawitemdata></item>
-<item name='$AssistAction' sign='true'>
-<rawitemdata type='10'>
-gQKT/2MADwANAB8AFgAAAAAAAABKYXZhQWdlbnQuY2xhc3NjOlxOb3Rlc1xEYXRhJSVzb3VyY2Ul
-JS5qYXIAJSVvYmplY3QlJS5qYXIAAERvY0FDTABDb21tb25VdGlsaXR5AAAA
-</rawitemdata></item>
-<item name='$AssistAction_Ex' sign='true'>
-<rawitemdata type='14'>
-gQI=
-</rawitemdata></item>
-<item name='$Restricted' sign='true'><number>1</number></item>
-<item name='$Flags'><text>fJj3</text></item>
-<item name='$DesignerVersion'><text>8.5.3</text></item>
-<item name='$AssistRunInfo' summary='true'>
-<rawitemdata type='3'>
-BgABAAAACADuGQAAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAA9QAAAAAAAAAAAAAAAAAAABAAAAAA
-AAAAKvM9AByDJcEAAAAALi4nAByDJcHad0wAFYMlwQAAAAAAAAAAAAAAAAAAAAAAAAAAU3RhcnRl
-ZCBydW5uaW5nIGFnZW50ICdzY2FuRGF0YWJhc2VzJyBvbiAyMDE4LTEwLTA0IDEzOjE2OjMzDQpS
-dW5uaW5nIG9uIGFsbCBkb2N1bWVudHMgaW4gZGF0YWJhc2U6IDE5NSB0b3RhbA0KRm91bmQgMTk1
-IGRvY3VtZW50KHMpIHRoYXQgbWF0Y2ggc2VhcmNoIGNyaXRlcmlhDQpSYW4gSmF2YSBBZ2VudCBD
-bGFzcw0KRG9uZSBydW5uaW5nIGFnZW50ICdzY2FuRGF0YWJhc2VzJyBvbiAyMDE4LTEwLTA0IDEz
-OjE2OjM5DQoADQoPGTM2coxLx2noNQAcgyXBqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqq
-</rawitemdata></item></note>
+<?xml version="1.0" encoding="UTF-8"?>
+<agent xmlns="http://www.lotus.com/dxl" name="scanDatabases" hide="v3" publicaccess="false">
+  <trigger type="actionsmenu"/>
+  <documentset type="all"/>
+  <code event="action">
+    <javaproject class="JavaAgent.class">
+      <java name="JavaAgent.java">import java.util.ArrayList;
 
+import CommonUtil.*;
+import docACL.DocACL;
+import lotus.domino.*;
+
+/*
+ * Created by: Tomasz Wieszczura/Poland/IBM
+ * Status for day 9.10.2018: agent finished
+ */
+
+public class JavaAgent extends AgentBase {
+
+    public void NotesMain() {
+
+      try {
+          Session session = getSession();
+          AgentContext agentContext = session.getAgentContext();
+          	
+          // (Your code goes here)
+          ReadProfileDocument pr = new ReadProfileDocument(session);
+          Document profile = pr.getProfileDocument();
+          String server = profile.getItemValueString("serverName");
+          GUIprompt prompt = new GUIprompt();
+          
+          if (server.isEmpty())
+        	  if (prompt.promptWindow("You are going to scan all DB on LOCAL machine! Please fullfil the CONFIGURATION!\n Do you want to continue?"))
+            	  scanDatabases(server);
+              else
+            	  System.out.println("Fulfill the CONFIGURATION.");
+          else
+        	  if (prompt.promptWindow("You are going to scan all DB on server and creates documents\n in this application.\n Are you sure?"))
+        		  scanDatabases(server);
+        	  else
+        		  System.out.println("Not processing");
+                  
+      }
+      catch(NotesException ne)
+      {
+    	  ne.printStackTrace();
+      }
+      catch(Exception e) {
+          e.printStackTrace();
+       }
+   }
+    
+    /*
+     * Method is looking for all *.nsf files on server. 
+     * Server - this is the machine on which the agent is running. When you use this application on local machine,
+     * it will scan all *.nsf on your local computer.
+     * 
+     * TODO: Add level access - DONE
+     * TODO: Read server from profile doc - DONE
+     */
+    public void scanDatabases(String server) throws NotesException
+    {
+    	Session s = getSession();    	
+    	AgentContext agt = s.getAgentContext();
+    	DbDirectory dir = s.getDbDirectory(server);	
+    	String serverName  = dir.getName();
+    	String strACLEntries = "";
+    	String relativePath = "";
+    	Database db = null;
+    	DocACL docacl = null;
+    	ArrayList dbList = new ArrayList();	// List of DB with its ACL. This list will be further use to create documents in DB
+    	ACL aclEntries = null;
+    	
+    	System.out.println("Agent START execution.");
+    	
+    	if (serverName.equals(""))
+    		serverName = "Local";    	
+    	System.out.println("Server: " + serverName + "\n");
+    	
+    	// get first database on a server. It takes db from the server that this app resides.
+    	db = dir.getFirstDatabase(DbDirectory.DATABASE);
+    	    	    
+    	while (db!=null)
+    	{
+    		try
+    		{
+    			// Open current DB to read its ACL. In case DB is corrupted try-catch will throw exception and continue with next DB.
+    			relativePath = db.getFilePath();	// get relative DB's path
+    												// after db.open() the relative path shows: C:\(..)
+    			System.out.println(db.getFilePath());
+    			db.open();
+    			if(db.isOpen())
+            	{    				
+            		aclEntries = db.getACL();					// Getting db's ACL entries
+            		showACL(aclEntries);
+            		strACLEntries = getACLEntries(aclEntries);	// Retrieving ACL's entry as string            		            	
+            		docacl = new DocACL(db.getFileName(), relativePath, strACLEntries);	// Create object with info about the current DB
+            		dbList.add(docacl);		// adding DB's info to the list for further processing 
+            	}
+            	else
+            		System.out.println("DB not opened");
+    		}
+    		catch(NotesException ne)
+    		{
+    			System.out.println("DB open error: " + db.getFilePath());
+    			ne.printStackTrace();
+    		}
+
+    		db = dir.getNextDatabase();
+    		
+    	}
+    	createDocuments(dbList);	// calling method to create documents for each entry on a list of DB
+    	
+    	System.out.println("Agent FINISHED execution.");
+    }
+    
+    /*
+     * Method displays ACL entries with level of access.
+     * 
+     */
+    public void showACL(ACL a) throws NotesException
+    {
+    	ACLEntry ae = a.getFirstEntry();
+    	ACLEntry aeTmp = null;
+    	
+    	while (ae!=null)
+    	{    		
+    		System.out.println(ae.getName() + " || " + ae.getLevel());    		
+    		aeTmp = a.getNextEntry(ae);
+    		ae.recycle();
+    		ae = aeTmp;
+    	}
+    }
+    
+    
+    /*
+     * Method returns all ACL entries as String with new line after each entry.
+     * As a parameter it gets ACL object and iterate through ACLEntries and gets its name as String.
+     */
+    public String getACLEntries(ACL a) throws NotesException
+    {
+    	StringBuilder str = new StringBuilder();	// For loop it is more efficient way to compose String
+    	
+    	ACLEntry ae = a.getFirstEntry();
+    	ACLEntry aeTmp = null;
+    	
+    	// Iterate through all ACL's entries
+    	while (ae!=null)
+    	{    		
+    		str.append(ae.getName());
+    		str.append(" - ");
+    		str.append(ae.getLevel());
+    		str.append(System.lineSeparator());
+    		aeTmp = a.getNextEntry(ae);
+    		ae.recycle();
+    		ae = aeTmp;
+    	}
+    	
+    	return str.toString();
+    }
+    
+
+    
+    /*
+     * Method creates documents in application.
+     * it gets ArrayList of all databases on a server and for each DB it creates document with information about DB
+     */
+    public void createDocuments(ArrayList dbList) throws NotesException
+    {
+    	Session s = getSession();
+    	AgentContext agt = s.getAgentContext();
+    	Database db = agt.getCurrentDatabase();
+    	Document doc = null;
+    	DocACL aclTmp = null;
+    	
+    	for (int i = 0; i &lt; dbList.size(); i++)
+    	{
+    		aclTmp = (DocACL)dbList.get(i);
+    		doc = db.createDocument();
+    		doc.replaceItemValue("Form", "ACLdoc");
+    		doc.replaceItemValue("dbServer", db.getServer());
+    		doc.replaceItemValue("dbFileName", aclTmp.getDbName());
+    		doc.replaceItemValue("dbPath", aclTmp.getDbPath());
+    		doc.replaceItemValue("aclEntries", aclTmp.getEntries());
+    		
+    		doc.computeWithForm(false, false);
+    		doc.save(true,true);
+    		doc.recycle();
+    	}
+    	
+    }
+
+}</java>
+      <sharedlibraryref name="DocACL"/>
+      <sharedlibraryref name="CommonUtility"/>
+    </javaproject>
+  </code>
+  <item name="$JavaCompilerSource">
+    <text>1.5</text>
+  </item>
+  <item name="$JavaCompilerTarget">
+    <text>1.5</text>
+  </item>
+</agent>

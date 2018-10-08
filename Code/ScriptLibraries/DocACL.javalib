@@ -1,56 +1,54 @@
-<?xml version='1.0' encoding='utf-8'?>
-<note class='filter' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.10'
- replicaid='C125830E006C2EDE'>
-<noteinfo noteid='232' unid='E280A756B28838F0C1258312005430F8' sequence='7'>
-<created><datetime dst='true'>20180924T171935,60+02</datetime></created>
-<modified><datetime dst='true'>20180927T155559,05+02</datetime></modified>
-<revised><datetime dst='true'>20180925T165428,00+02</datetime></revised>
-<lastaccessed><datetime dst='true'>20180927T155559,04+02</datetime></lastaccessed>
-<addedtofile><datetime dst='true'>20180927T155559,04+02</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></updatedby>
-<wassignedby><name>CN=Tomasz Wieszczura/OU=Poland/O=IBM</name></wassignedby>
-<item name='$FlagsExt'><text/></item>
-<item name='$JavaCompilerSource'><text>1.3</text></item>
-<item name='$JavaCompilerTarget'><text>1.2</text></item>
-<item name='$TITLE' sign='true'><text>DocACL</text></item>
-<item name='$Flags'><text>sj34Q</text></item>
-<item name='$PublicAccess' sign='true'><text>1</text></item>
-<item name='$DesignerVersion'><text>8.5.3</text></item>
-<item name='$AssistAction' sign='true'>
-<rawitemdata type='10'>
-k/9OAA8ADQAfAAEAAAAAAAAASmF2YUFnZW50LmNsYXNzYzpcTm90ZXNcRGF0YSUlc291cmNlJSUu
-amFyACUlb2JqZWN0JSUuamFyAAAA
-</rawitemdata></item>
-<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
- compression='none' flags='sign' encoding='none' name='%%source%%.jar' size='420'>
-<created><datetime dst='true'>20180924T172145,98+02</datetime></created>
-<modified><datetime dst='true'>20180925T165427,88+02</datetime></modified><filedata
->
-UEsDBBQACAgIAMyGOU0AAAAAAAAAAAAAAAASAAAAZG9jQUNML0RvY0FDTC5qYXZhfZHBioMwEIbP
-Cr7D0JNtF30A2cPS7q0shV73ksagYWMSkrFQln33nRirFtyFEM38/v98GS3jX6wRUBv+djhVWZql
-5S5LYQdhK7PU9lclOXDFvIfj8BVJ31maWCdvDAVc0EndQH39YJ2o1oQzw3ZFYFy9a3oVPoi0yhIO
-Rnt0PUfjgiE2j23zKe/lkWApeDqImLUlX8BLsJW+iFTwSq5qUQxEVLQjWCzPPCSJmewnmfDOEagR
-6KET2Jraz5gjB4nHoWs+oTiBvdOwIBpyY+yKO+D95R6GmST/+MdLrAc8D/054mZkDbX0VrE7zXwO
-uNw9iq4wPRb0DzUqnQ9hi6vCHjafekOPhzJhbMdOtH4BUEsHCMai3ugOAQAAbwIAAFBLAQIUABQA
-CAgIAMyGOU3Got7oDgEAAG8CAAASAAAAAAAAAAAAAAAAAAAAAABkb2NBQ0wvRG9jQUNMLmphdmFQ
-SwUGAAAAAAEAAQBAAAAATgEAAAAA
-</filedata></file></object></item>
-<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
- compression='none' flags='sign' encoding='none' name='%%object%%.jar' size='634'>
-<created><datetime dst='true'>20180924T172146,00+02</datetime></created>
-<modified><datetime dst='true'>20180925T165427,93+02</datetime></modified><filedata
->
-UEsDBBQACAgIAM2GOU0AAAAAAAAAAAAAAAATAAAAZG9jQUNML0RvY0FDTC5jbGFzc41S207bQBA9
-m4Q4dhdoLqT0HgqlsQmY3ktDK1HoGypISJF4XOJNMHLsiDhI/BWtmlC1Uj+gH1V11jZtKX6oX87s
-nNmdM2f84+fX7wBW8EZDhmHSCdobm9v2VgQacgzXj8SJsD3hd+2dgyPZDhnyzsEH0ZMMpe0/5F54
-7PrdZsTuivCQwRBt771PaTmg7Lrru+FbhrX61Uv/kzFbDLnNwJEGspjk0DHFkK2bLR0kkmMCeRWV
-OLQ4qnAUkGfQuzLcSgRX6maa5LgkUU3xb9WG4w76njglP3Tcxl0Ndy45snc6CGWP4x7uk5hgSObM
-xA3cwN6l10PqIUWvqWGOofpv63fDTkceGyR2nmMGVQMP8UjD4uUeUSlHHSaDdiK8odzpMCz+7WO8
-mWbKcAZqWFJuNUhaivVmq4AVBmaowlWOx3hCyxL9vvQdhkbajSupeIymmuMZx6yao4YXHC9RZSiE
-QVxlYA3kw2uGcopDHOtKotZXKc/HHD2WpT8zi4xaLUUZtdgICxFOUIUO1fQanWqUzxFWrHNwa2mE
-aasxQtFaHqH8EepjyuGkukjI1BvWZ0yfJfSNVLp4Qc+m0uUL+iamEnqVhCh64RNufUNt3xrjwRcs
-nMMqLY9h0/EpwRjPx3gVS8MvUEsHCGiQhnLiAQAAhwMAAFBLAQIUABQACAgIAM2GOU1okIZy4gEA
-AIcDAAATAAAAAAAAAAAAAAAAAAAAAABkb2NBQ0wvRG9jQUNMLmNsYXNzUEsFBgAAAAABAAEAQQAA
-ACMCAAAAAA==
-</filedata></file></object></item></note>
+<?xml version="1.0" encoding="UTF-8"?>
+<scriptlibrary xmlns="http://www.lotus.com/dxl" name="DocACL" hide="v3 v4strict">
+  <code event="library">
+    <javaproject class="JavaAgent.class">
+      <java name="docACL/DocACL.java">package docACL;
 
+/*
+ * 
+ */
+public class DocACL 
+{
+	private String dbName;
+	private String dbPath;
+	private String aclEntries;
+	
+	// Constructor
+	public DocACL(String db, String path, String entries)
+	{
+		this.dbName = db;
+		this.dbPath = path;
+		this.aclEntries = entries;
+	}	
+	
+	// Public gets methods
+	public String getDbName()
+	{
+		return this.dbName;
+	}
+	
+	public String getDbPath()
+	{
+		return this.dbPath;		
+	}
+	
+	public String getEntries()
+	{
+		return this.aclEntries;
+	}
+	
+	public void displayDoc()
+	{
+		System.out.println(this.getDbName() + "\n" + this.getEntries());
+	}
+}
+</java>
+    </javaproject>
+  </code>
+  <item name="$JavaCompilerSource">
+    <text>1.3</text>
+  </item>
+  <item name="$JavaCompilerTarget">
+    <text>1.2</text>
+  </item>
+</scriptlibrary>
